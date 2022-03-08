@@ -1,7 +1,7 @@
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
 
-// load images
+// load images hiển thị ảnh ra giao diện 
 
 var bird = new Image();
 var bg = new Image();
